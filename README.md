@@ -2,7 +2,7 @@
 
 **This Fork adds a little color styling and seperation for your *supervisor* and the rest of your logs.**
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
 A little supervisor script for nodejs. It runs your program, and
 watches for code changes, so you can have hot-code reloading-ish
